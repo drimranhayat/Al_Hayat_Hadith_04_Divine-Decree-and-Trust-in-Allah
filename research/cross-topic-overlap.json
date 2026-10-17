@@ -1,0 +1,43 @@
+{
+  "hadith-revelation": [
+    {
+      "id": "4801",
+      "topic4Entry": 40,
+      "previousEntry": 39
+    }
+  ],
+  "hadith-faith": [
+    {
+      "id": "5493",
+      "topic4Entry": 9,
+      "previousEntry": 19
+    },
+    {
+      "id": "3599",
+      "topic4Entry": 16,
+      "previousEntry": 16
+    },
+    {
+      "id": "3298",
+      "topic4Entry": 25,
+      "previousEntry": 40
+    }
+  ],
+  "hadith-tawhid": [
+    {
+      "id": "4811",
+      "topic4Entry": 10,
+      "previousEntry": 17
+    },
+    {
+      "id": "3598",
+      "topic4Entry": 17,
+      "previousEntry": 18
+    },
+    {
+      "id": "3636",
+      "topic4Entry": 24,
+      "previousEntry": 24
+    }
+  ]
+}

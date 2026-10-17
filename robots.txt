@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://al-hayat-divine-decree-trust.aquaearth3.chatgpt.site/sitemap.xml
